@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">saludar(tu) Soy Matías Díaz!</a> 👋</h1>
+<h1 align="center">Soy Matías Díaz!</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/szCsoYP.png">
 
@@ -36,7 +36,7 @@
                <br>
 <h3 align="center">BINGOCHO</h3>
 <div align="center">                                       
-<a href="https://bingocho.netlify.app/" target="_blank"><img src="https://i.imgur.com/IxiI86m.png" width="400" alt="Bingo"></a>
+<a href="https://bingocho.netlify.app/" target="_blank"><img src="https://i.imgur.com/8Tw7Vfq.png" width="400" alt="Bingo"></a>
 <br>
 <p>
 <a href="https://github.com/mati98ld/Bingocho" target="_blank">
