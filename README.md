@@ -67,14 +67,7 @@
 </a>
 </p>
 <p>Este proyecto fue presentado como proyecto final para la cátedra Seminario de Lenguajes (JavaScript).
-En el se implementaron las siguientes tecnologías:
-- MongoDB (Mongoose) - Base de Datos
-- JavaScript (VanillaJS) - Manejo del DOM
-- JavaScript (Express.js) - Server y rutas
-- CSS (Framework Bootstrap)
-- WebSocket (Socket.io) - sincronicidad para multijugador online
-- MongoDB Atlas para el deploy de la base de datos. (Previamente levantado localmente con Docker)
-- Render (Para el deploy del proyecto FullStack)</p>
+En el se implementaron las siguientes tecnologías: MongoDB (Mongoose), Base de Datos, JavaScript (VanillaJS - Express.js), CSS (Framework Bootstrap), WebSocket (Socket.io), MongoDB Atlas para el deploy de la base de datos, Render (Para el deploy del proyecto FullStack)</p>
 </div>
                                                                                       
 </td>
@@ -92,10 +85,7 @@ En el se implementaron las siguientes tecnologías:
 </a>
 </p>
 <p>Este proyecto es una práctica hecha para practicar Bootstrap. La misma no tiene funcionalidades, solo es el desarrollo del front-end, se puede navegar a traves de las paginas para visualizarlas.
-En este proyecto se utilizaron las siguientes tecnologías:
-CSS (Bootstrap)
-Javascript (Vanilla) - Manejo del DOM
-Netlify - Para el Deploy.</p>
+En este proyecto se utilizaron las siguientes tecnologías: CSS (Bootstrap), Javascript (Vanilla), Netlify - Para el Deploy.</p>
 </div>
                                                                                       
 </td>  
