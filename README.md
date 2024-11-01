@@ -33,7 +33,6 @@
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">BINGOCHO</h3>
 <div align="center">                                       
 <a href="https://bingocho.netlify.app/" target="_blank"><img src="https://i.imgur.com/8Tw7Vfq.png" width="400" alt="Bingo"></a>
