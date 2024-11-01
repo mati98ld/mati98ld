@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Matías Díaz!</a> 👋</h1>
+<h1 align="center">saludar(tu) Soy Matías Díaz!</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/szCsoYP.png">
 
@@ -60,7 +60,7 @@
 <a href="https://juegojsdb.onrender.com/" target="_blank"><img src="https://i.imgur.com/Wgzzqzq.png" width="400" alt="JuegoJS"></a>
 <p>
 <a href="https://github.com/mati98ld/juegoJSDB" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-efdfff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://juegojsdb.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/-P%C3%A1gina-green?style=for-the-badge&color=fbfc40">
