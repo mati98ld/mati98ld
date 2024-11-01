@@ -1,7 +1,6 @@
 <img src="https://i.imgur.com/szCsoYP.png">
-<div align="center">
+
 <h1 align="center">Soy Matías Díaz!</a> 👋</h1>
-</div>
 
 ## Sobre mi
 
