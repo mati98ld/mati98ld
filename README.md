@@ -75,14 +75,14 @@ En el se implementaron las siguientes tecnologías: MongoDB (Mongoose), Base de 
 <div align="center">
 <a href="https://tecno-store.netlify.app/" target="_blank"><img src="https://i.imgur.com/Pn2CkWc.png" width="400" alt="Store Frontend"></a>
 <p>
-<a href="https://github.com/mati98ld/BootcampCILSA/tree/tecnoStore" target="_blank">
+<a href="https://github.com/mati98ld/TecnoStore" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://tecno-store.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-P%C3%A1gina-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Este proyecto es una práctica hecha para practicar Bootstrap. La misma no tiene funcionalidades, solo es el desarrollo del front-end, se puede navegar a traves de las paginas para visualizarlas.
+<p>Este proyecto es una práctica hecha para practicar front-end. La misma no tiene funcionalidades, solo es el desarrollo del front-end, se puede navegar a traves de las paginas para visualizarlas.
 En este proyecto se utilizaron las siguientes tecnologías: CSS (Bootstrap), Javascript (Vanilla), Netlify - Para el Deploy.</p>
 </div>
                                                                                       
