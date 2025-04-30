@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e006800-6b15-4b59-bab8-98f0c71c2c58)<img src="https://i.imgur.com/05qjRGk.png">
+![image]<img src="https://i.imgur.com/05qjRGk.png">
 
 <h1 align="center">Soy Matías Díaz!</a> 👋</h1>
 
