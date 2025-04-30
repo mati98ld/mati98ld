@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/05qjRGk.png">
+![image](https://github.com/user-attachments/assets/8e006800-6b15-4b59-bab8-98f0c71c2c58)<img src="https://i.imgur.com/05qjRGk.png">
 
 <h1 align="center">Soy Matías Díaz!</a> 👋</h1>
 
@@ -17,7 +17,7 @@
 <td width="50%">
 <h3 align="center">Página web de FARA</h3>
 <div align="center">
-<a href="https://fara.onrender.com/" target="_blank"><img src="https://imgur.com/a/Zcj8hH8" width="400" alt="Página web de FARA"></a>
+<a href="https://fara.onrender.com/" target="_blank"><img src="https://i.imgur.com/lT0Jyge.png" width="400" alt="Página web de FARA"></a>
 <p>
 <a href="https://github.com/Proyecto-Cilsa-Fara/Front_Cilsa_Fara-Web" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
