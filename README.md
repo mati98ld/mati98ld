@@ -15,6 +15,23 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Página web de FARA</h3>
+<div align="center">
+<a href="https://fara.onrender.com/" target="_blank"><img src="https://imgur.com/a/Zcj8hH8" width="400" alt="Página web de FARA"></a>
+<p>
+<a href="https://github.com/Proyecto-Cilsa-Fara/Front_Cilsa_Fara-Web" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://fara.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/-P%C3%A1gina-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Este proyecto fue desarrollado durante una práctica laboral organizada por la ONG CILSA en colaboración con la fundación FARA, por un equipo multidisciplinario inclusivo que aboga por la accesibilidad web.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
 <h3 align="center">Calculador de Proporciones</h3>
 <div align="center">
 <a href="https://calculadoraproporciones.netlify.app/#/" target="_blank"><img src="https://i.imgur.com/vp4fHpK.png" width="400" alt="Calculadora de proporciones"></a>
