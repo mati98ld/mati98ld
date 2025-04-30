@@ -1,4 +1,4 @@
-![image]<img src="https://i.imgur.com/05qjRGk.png">
+<img src="https://i.imgur.com/05qjRGk.png">
 
 <h1 align="center">Soy Matías Díaz!</a> 👋</h1>
 
