@@ -14,6 +14,23 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">El Escrutado</h3>
+<div align="center">
+<a href="https://escrutado.netlify.app/" target="_blank"><img src="https://imgur.com/a/LcSoeNv" width="400" alt="Página web El Escrutado"></a>
+<p>
+<a href="https://github.com/mati98ld/escrutado/tree/main/escrutado" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://escrutado.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-P%C3%A1gina-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Esta app la desarrollé con la idea de que sirva de ayuda para todos aquellos que participan en el proceso electoral. Esta herramienta es una ayuda tanto para los fiscales como los autoridades de mesa de la provincia de Buenos Aires en las elecciones generales 2025.</p>
+</div>
+</td>
+  
+<tr>
+<td width="50%">
 <h3 align="center">Página web de FARA</h3>
 <div align="center">
 <a href="https://fara.onrender.com/" target="_blank"><img src="https://i.imgur.com/lT0Jyge.png" width="400" alt="Página web de FARA"></a>
